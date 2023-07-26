@@ -42,4 +42,3 @@ build/
 pom.xml
 .gitignore
 README.md
-/src/main/java/
