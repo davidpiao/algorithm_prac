@@ -41,3 +41,4 @@ build/
 #추가적으로
 pom.xml
 *.md
+.gitignore
