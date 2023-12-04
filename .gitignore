@@ -9,4 +9,4 @@
 
 .idea/
 *.iml
-.gitignore
+.gitignore.DS_Store
