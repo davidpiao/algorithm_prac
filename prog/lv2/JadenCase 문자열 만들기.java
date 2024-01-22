@@ -4,7 +4,7 @@ package lv2;
 //time: 0.11ms
 
 import java.util.*;
-class Solution {
+class JadenCase {
     public String solution(String s) {
         StringBuilder answer = new StringBuilder();
         answer.append(Character.toUpperCase(s.charAt(0)));

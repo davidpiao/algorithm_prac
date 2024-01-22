@@ -15,7 +15,7 @@ package lv1;
 
 import java.util.*;
 
-public class Solution{
+class 달리기경주{
     public String[] solution(String[] players, String[] callings) {
         Map<String, Integer> orderMap = new HashMap<>();
 

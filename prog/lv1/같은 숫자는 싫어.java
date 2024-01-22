@@ -2,7 +2,7 @@ package lv1;
 
 import java.util.*;
 
-public class Solution {
+class 같은숫자는싫어 {
     public int[] solution(int []arr) {
         //스택 선언
         Stack<Integer> temp = new Stack<>();

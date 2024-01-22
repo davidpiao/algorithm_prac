@@ -2,7 +2,7 @@
 //link - https://school.programmers.co.kr/learn/courses/30/lessons/67256
 package etc;
 
-class Solution {
+class 키패드누르기 {
     public String solution(int[] numbers, String hand) {
         StringBuilder answer = new StringBuilder();
         int left = 10; // *의 값

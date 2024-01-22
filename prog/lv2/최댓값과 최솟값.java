@@ -3,7 +3,7 @@ package prog.lv2;
 //title: 최댓값과 최솟값
 //link - https://school.programmers.co.kr/learn/courses/30/lessons/12939
 //time - 10.69ms
-class Solution {
+class 최댓값과최솟값 {
     public String solution(String s) {
         String answer = "";
         int min = 99999;

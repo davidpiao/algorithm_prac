@@ -2,7 +2,7 @@ package prog.lv2;
 
 import java.util.*;
 
-class Solution {
+class 프린터 {
     public int solution(int[] priorities, int location) {
         //큐 선언
         List<PrintJob> printer = new ArrayList<PrintJob>();

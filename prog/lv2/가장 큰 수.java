@@ -2,7 +2,7 @@ package lv2;
 
 import java.util.*;
 
-class Solution {
+class 큰수 {
     public String solution(int[] numbers) {
         String answer = "";
 
