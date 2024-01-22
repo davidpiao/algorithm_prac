@@ -10,3 +10,4 @@
 .idea/
 *.iml
 .gitignore.DS_Store
+/out
